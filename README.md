@@ -1,5 +1,7 @@
 **Steps to run the project**
 
+`cd upayments`
+
 iOS:
 
 Run the following command on terminal:

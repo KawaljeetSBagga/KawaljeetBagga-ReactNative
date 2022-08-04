@@ -1,4 +1,4 @@
-**Installation steps**
+**Steps to run the project**
 
 iOS:
 
